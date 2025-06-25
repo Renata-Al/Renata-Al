@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu sou a Renata Albuquerque 👋
 
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando liguagens como JS e Python
+- 🌱 Estudando linguagens como JS e Python
 - 💻 Desenvolvendo um Projeto de Prontuário Disciplinar no React
 - 📫 Entrar em contato: albuquerquerenata2007@gmail.com
 
