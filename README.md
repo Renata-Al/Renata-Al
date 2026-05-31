@@ -5,13 +5,16 @@
 - 💻 Desenvolvendo um Projeto de Prontuário Disciplinar no React
 - 📫 Entrar em contato: albuquerquerenata2007@gmail.com
 
-<div>
-  <a href="https://www.linkedin.com/in/renata-albuquerque-8b05a5309/"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renata-Al&show_icons=true&theme=tokyonight"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Al&layout=compact&theme=tokyonight"/> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
 </div>
-  
-  ##
+
+###
  
 <div> 
   <a href="https://www.instagram.com/renata.s.albuquerque?igsh=MTA5eXc0amttYzlvZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
